@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44302a0a.chunk.css",
+    "main.js": "/static/js/main.4d998db3.chunk.js",
+    "main.js.map": "/static/js/main.4d998db3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c1cc88b0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c1cc88b0.js.map",
+    "static/css/2.f47422e6.chunk.css": "/static/css/2.f47422e6.chunk.css",
+    "static/js/2.3c6d456e.chunk.js": "/static/js/2.3c6d456e.chunk.js",
+    "static/js/2.3c6d456e.chunk.js.map": "/static/js/2.3c6d456e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e50654c479976a7be2f34e5aba76fa20.js": "/precache-manifest.e50654c479976a7be2f34e5aba76fa20.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f47422e6.chunk.css.map": "/static/css/2.f47422e6.chunk.css.map",
+    "static/css/main.44302a0a.chunk.css.map": "/static/css/main.44302a0a.chunk.css.map",
+    "static/js/2.3c6d456e.chunk.js.LICENSE.txt": "/static/js/2.3c6d456e.chunk.js.LICENSE.txt",
+    "static/media/Baby one more time.mp3": "/static/media/Baby one more time.99a26de2.mp3",
+    "static/media/BabyOneMoreTime.jpg": "/static/media/BabyOneMoreTime.91112ac1.jpg",
+    "static/media/Christina Aguilera - Genie In A Bottle.mp3": "/static/media/Christina Aguilera - Genie In A Bottle.be278ecd.mp3",
+    "static/media/Christinaaguilera.jpg": "/static/media/Christinaaguilera.d55f40ed.jpg",
+    "static/media/Katy Perry - Dark Horse (Official) ft. Juicy J.mp3": "/static/media/Katy Perry - Dark Horse (Official) ft. Juicy J.21220b1f.mp3",
+    "static/media/Pharrell Williams - Happy (Official Music Video).mp3": "/static/media/Pharrell Williams - Happy (Official Music Video).f5e9cec0.mp3",
+    "static/media/Pharrell_Williams_-_Happy.jpg": "/static/media/Pharrell_Williams_-_Happy.44b9d0db.jpg",
+    "static/media/Rihanna - Rude Boy (Official Music Video).mp3": "/static/media/Rihanna - Rude Boy (Official Music Video).f5b9b584.mp3",
+    "static/media/Selena - I Could Fall In Love (Official Music Video).mp3": "/static/media/Selena - I Could Fall In Love (Official Music Video).3dcb51d7.mp3",
+    "static/media/katyperry.png": "/static/media/katyperry.1fccf4b6.png",
+    "static/media/rihanna.jpeg": "/static/media/rihanna.7eaa342a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1cc88b0.js",
+    "static/css/2.f47422e6.chunk.css",
+    "static/js/2.3c6d456e.chunk.js",
+    "static/css/main.44302a0a.chunk.css",
+    "static/js/main.4d998db3.chunk.js"
+  ]
+}
